@@ -1,4 +1,4 @@
-## react-form-validation
+## react-object-validation
 
 Simple way to define rules to test your forms or any set of objects in react.
 
@@ -12,20 +12,20 @@ and if it wasn't you want display an error message for each rule broken.
 
 ### The solution
 
-react-form-validation can help with that! The motivation was create a simple way to decorate a react component passing as a props a method
+react-object-validation can help with that! The motivation was create a simple way to decorate a react component passing as a props a method
 to validate some object form according with rules specified.
 
 ### Installation
 
 ```sh
-$ npm install react-form-validation --save
+$ npm install react-object-validation --save
 ```
 
 ### Usage
 
 ```sh 
 import React, { Component } from 'react'
-import FormValidationHOC from 'react-form-validation'
+import FormValidationHOC from 'react-object-validation'
 
 class App extends Component {
     state = {
