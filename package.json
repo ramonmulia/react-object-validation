@@ -1,7 +1,7 @@
 {
-  "name": "react-form-validation",
+  "name": "react-object-validation",
   "version": "1.0.0",
-  "description": "react-form-validation",
+  "description": "react-object-validation",
   "main": "dist/main.js",
   "directories": {
     "test": "test"
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ramonmulia/react-form-validation.git"
+    "url": "git+https://github.com/ramonmulia/react-object-validation.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ramonmulia/react-form-validation/issues"
+    "url": "https://github.com/ramonmulia/react-object-validation/issues"
   },
-  "homepage": "https://github.com/ramonmulia/react-form-validation#readme",
+  "homepage": "https://github.com/ramonmulia/react-object-validation#readme",
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
