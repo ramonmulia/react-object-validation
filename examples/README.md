@@ -1,0 +1,1 @@
+to run: yarn install && npm start
