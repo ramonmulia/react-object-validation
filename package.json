@@ -1,11 +1,19 @@
 {
   "name": "react-object-validation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-object-validation",
   "main": "dist/main.js",
   "directories": {
     "test": "test"
   },
+  "keywords": [
+    "validation",
+    "form validation",
+    "object",
+    "react",
+    "react validation",
+    "object validation"
+  ],
   "scripts": {
     "build": "webpack --mode production",
     "test": "nyc mocha --compilers js:babel-core/register"

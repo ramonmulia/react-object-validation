@@ -5,6 +5,7 @@
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
+    "react-object-validation": "^1.0.0",
     "react-scripts": "1.1.4"
   },
   "scripts": {

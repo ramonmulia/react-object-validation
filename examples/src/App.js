@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import FormValidationHOC from './main.js';
+import FormValidationHOC from 'react-object-validation';
 
 console.log(FormValidationHOC);
 class App extends Component {
